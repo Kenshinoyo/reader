@@ -1,6 +1,6 @@
 # File Uploader
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This app was created using the JavaScript based library React.
 
 ## Available Scripts
 
