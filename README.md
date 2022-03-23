@@ -11,4 +11,5 @@
 
 ## Hurdles
 
+- File changes not staging for git commit(**solved**)
 - Properly refactoring "event handler(s)" for functional component structure 
