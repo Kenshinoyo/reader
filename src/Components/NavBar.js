@@ -12,7 +12,7 @@ const NavBar = () => {
                 </li>
                 
                 <li>
-                    <Link to="/Reader"></Link>
+                    <Link to="/reader">File Uploader</Link>
                 </li>
             </ul>
         </nav>
