@@ -12,4 +12,10 @@
 ## Hurdles
 
 - File changes not staging for git commit(**solved**)
-- Properly refactoring "event handler(s)" for functional component structure 
+- Properly refactoring "event handler(s)" for functional component structure
+- *Uncaught Error* with Home component not being recognized as a child of the Routes
+  - **Solution**: Revised react router dom to 5.2 version, and utilized legacy syntax
+- *Runtime Error* with component not being exported properly
+  - **Solution**: Installed eslint plugins for compatibility
+- *Uncaught Error* with <br> tag not working properly
+  - **Solution**: Updated syntax to self closing tag
