@@ -1,8 +1,10 @@
-# File Uploader
+# File Uploader(BETA)
 
 - This app was created using the JavaScript based library React.
+- Uses a traditional class component code structure with the capacity for expansion via Redux
+- 
 
-## Available Scripts
+## Stretch Goals
 
 In the project directory, you can run:
 
